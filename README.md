@@ -6,7 +6,7 @@
 
 <!-- - 🌱 I’m currently learning **Android Studio** -->
 
-- 💬 Ask me about **C++, Java and JavaScript**
+- 💬 Ask me about **C++, Java, C# and JavaScript**
 
 - 📫 How to reach me **umarworkofficial@gmail.com**
 
